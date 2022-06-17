@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 🌍 I live in Extrema/MG, Brazil
 - ✉️ You can get in touch through helio_lima@outlook.com.br
 - 🌱 Currently I'm studying front end technologies, I started learning HTML5, CSS3 and JavaScript.
+- 🔭 You can see more about my projects at https://codepen.io/helio2323
+
 
 <h2>Skills</h2>
 
