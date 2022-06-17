@@ -14,22 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌍 Eu moro em Extrema/MG, Brasil
-- ✉️ Você pode entrar em contato atraves de helio_lima@outlook.com.br
-- 🌱 Atualmente estou estudando tecnologias front end, iniciei aprendendo HTML5, CSS3 e JavaScript. 
+- 🌍 I live in Extrema/MG, Brazil
+- ✉️ You can get in touch through helio_lima@outlook.com.br
+- 🌱 Currently I'm studying front end technologies, I started learning HTML5, CSS3 and JavaScript.
 
 <h2>Skills</h2>
 
-### Languages: 
+#### Languages: <a><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a><a>  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 
- 
+#### Frontend: <a><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a><a><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+#### Design: <a><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
+
+
+
+<h2>My Certificates</h2>
+
+##### <a href  ="https://www.udemy.com/certificate/UC-561f70de-efc2-461c-92e2-1c6acbcc4cfb/" target="_blank">Html, CSS and JS</a>
+
+
+
 
 <h2>Socials</h2>
 
