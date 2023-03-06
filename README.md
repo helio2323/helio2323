@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <h2>My Certificates</h2>
 
 ##### <a href  ="https://www.udemy.com/certificate/UC-561f70de-efc2-461c-92e2-1c6acbcc4cfb/" target="_blank">Html, CSS and JS</a>
-
-
+##### <a href  ="https://udemy-certificate.s3.amazonaws.com/pdf/UC-494542f6-5a8d-4063-9fcc-9cf21045377b.pdf" target="_blank">Figma</a>
 
 
 <h2>Socials</h2>
