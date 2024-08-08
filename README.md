@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Helio Fernandes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5E72E4&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=41B883&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -80,14 +80,33 @@
   <a href = "mailto:helio_lima@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helioreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<h2>Badges</h2>
+  <h3>🔥 Streak Stats</h3>
 
-<p>My Github Stats</p>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/helio2323">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="helio2323's streak" src="https://streak-stats.demolab.com?user=helio2323&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
+    </a>
+  </p>
 
-<div align="center">
-  <a href="https://github.com/helio2323">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helio2323&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helio2323&layout=compact&langs_count=20&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="#"><img alt="Helio F. Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=helio2323&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=273849&title_color=41B883&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="helio2323's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=helio2323&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=273849&title_color=41B883&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="#"><img alt="helio2323's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=helio2323&bg_color=273849&color=F8D866&line=41B883&point=FFFFFF&hide_border=true" /></a>
+
+<h3>⚡ Recent GitHub Activity</h3>
+
+
   
