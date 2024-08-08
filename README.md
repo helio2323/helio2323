@@ -80,6 +80,16 @@
   <a href = "mailto:helio_lima@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helioreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  <summary><h2>📘 My Top Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=helio2323&repo=Challenge-Dev&theme=react&bg_color=273849&title_color=41B883&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
+  </p>
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -105,8 +115,5 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="#"><img alt="helio2323's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=helio2323&bg_color=273849&color=F8D866&line=41B883&point=FFFFFF&hide_border=true" /></a>
-
-<h3>⚡ Recent GitHub Activity</h3>
-
 
   
